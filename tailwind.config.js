@@ -6,7 +6,13 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                prime: "#354259"
+                prime: "#1A1B1D"
+            },
+            backgroundImage: {
+                "homepage": "url('../assets/img/homepage.png')",
+            },
+            width: {
+                'custom': "1400px"
             }
         },
     },

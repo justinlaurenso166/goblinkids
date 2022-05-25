@@ -38,7 +38,7 @@ const showMenu = ref(false);
                   hover:bg-prime hover:bg-opacity-20
                   p-2
                   rounded-lg
-                  text-dark
+                  text-white
                   opacity-80
                   hover:opacity-100 hover:text-dark
                   text-3xl
@@ -46,7 +46,7 @@ const showMenu = ref(false);
                   font-bold
                 "
               >
-               Goblin Kids
+              Goblin Kids
               </div>
             </a>
           </div>
@@ -64,7 +64,7 @@ const showMenu = ref(false);
                   relative
                   flex
                   text-white
-                  bg-prime
+                  bg-white
                   hover:bg-opacity-70
                   px-2
                   py-1
@@ -74,7 +74,7 @@ const showMenu = ref(false);
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  class="ml-auto fill-current stroke-current h-6 w-6  text-white"
+                  class="ml-auto fill-current stroke-current h-6 w-6  text-prime"
                   viewBox="0 0 40 40"
                 >
                   <path
@@ -93,7 +93,7 @@ const showMenu = ref(false);
                   relative
                   flex
                   text-white
-                  bg-prime
+                  bg-white
                   hover:bg-opacity-70
                   px-2
                   py-1
@@ -103,7 +103,7 @@ const showMenu = ref(false);
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  class="ml-auto fill-current stroke-current h-6 w-6  text-white"
+                  class="ml-auto fill-current stroke-current h-6 w-6  text-prime"
                   viewBox="0 0 40 40"
                 >
                   <path
@@ -121,8 +121,7 @@ const showMenu = ref(false);
                   block
                   relative
                   flex
-                  text-white
-                  bg-prime
+                  bg-white
                   hover:bg-opacity-70
                   px-2
                   py-1
@@ -132,7 +131,7 @@ const showMenu = ref(false);
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  class="ml-auto fill-current stroke-current h-6 w-6  text-white"
+                  class="ml-auto fill-current stroke-current h-6 w-6  text-prime"
                   viewBox="0 0 40 40"
                 >
                   <path
@@ -184,15 +183,16 @@ const showMenu = ref(false);
                 <a class="w-min-content" href="/">
                   <div
                     class="
-                      hover:bg-prime hover:bg-opacity-20
-                      bg-prime
+                      hover:bg-opacity-20
                       p-2
                       px-4
                       rounded-lg
                       text-white
                       opacity-80
-                      hover:bg-black
-                      hover:text-dark
+                      bg-white
+                      text-prime
+                      hover:bg-white
+                      hover:text-white
                       text-2xl
                     "
                   >

@@ -65,8 +65,9 @@
 <style>
 #app {
   font-family: "Montserrat", sans-serif;
-  background-color: #ece5c7;
+  background-color: #1A1B1D;
   height: 100vh;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 </style>
