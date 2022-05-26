@@ -58,7 +58,7 @@ const showMenu = ref(false);
           <ul class="flex space-x-7">
             <li class="">
               <a
-                href=""
+                href="https://twitter.com/goblinkids?s=21&t=Idd0tBpl_5nELVY3QUdPXw"
                 target="_blank"
                 class="
                   w-full
@@ -207,7 +207,7 @@ const showMenu = ref(false);
             <ul class="text-xl w-full uppercase font-900 pt-10">
               <li class="border-b border-black border-opacity-10">
                 <a
-                  href=""
+                  href="https://twitter.com/goblinkids?s=21&t=Idd0tBpl_5nELVY3QUdPXw"
                   target="_blank"
                   class="
                     py-3
