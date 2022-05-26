@@ -28,14 +28,14 @@
             tracking-wider
             uppercase
             font-bold
-            lg:text-xl
+            lg:text-3xl
             text-lg
             py-5
             lg:ml-10
             mr-2
           "
         >
-          MINT YOUR GOBLIN KIDS!
+          MINT YOUR GOBLIN KIDS !
         </p>
       </div>
       <div class="xl:flex-1 flex-0 flex justify-end self-center">
@@ -51,7 +51,7 @@
               px-3
               py-3
               rounded-lg
-              lg:text-2xl lg:mr-0
+              xl:text-3xl lg:mr-0
               hover:bg-opacity-70
             "
           >
