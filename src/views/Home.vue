@@ -26,9 +26,16 @@ import Header from "../components/Header.vue"
         <header>
             <Header />
         </header>
-        <main class="a">
-            <div class="pt-2 m-auto xl:-mt-14">
-                <!-- <img src="../assets/img/homepage.png" class="w-full" /> -->
+        <main class="flex items-center justify-center h-screen text-white text-center text-xl xl:text-3xl">
+            <!-- <img src="../assets/img/homepage1.png"  class="w-full"> -->
+        </main>
+        <main class="bg-prime flex items-center justify-center h-screen text-prime text-left text-xl xl:text-4xl font-bold">
+            <div class="bg-white p-8 xl:p-10 rounded-lg mx-3 -mt-14 xl:mt-0 bg-opacity-70">
+                <p>From the results of minting , 25% will we donate to children in need.</p>
+                <p>•</p>
+                <p>And we will donate 25% of the royalty proceeds to children in need.</p>
+                <p>•</p>
+                <p>Where to donate, we will vote by the community.</p>
             </div>
         </main>
     </div>

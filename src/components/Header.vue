@@ -29,7 +29,8 @@ const showMenu = ref(false);
           border-opacity-0
           xl:flex-row
           flex-row-reverse
-          mr-10
+          mr-0
+          xl:mr-10
         "
       >
         <div class="flex-grow">
@@ -43,7 +44,7 @@ const showMenu = ref(false);
                   text-white
                   opacity-80
                   hover:opacity-100 hover:text-dark
-                  text-3xl
+                  text-4xl
                   px-4
                   font-bold
                 "

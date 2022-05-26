@@ -32,12 +32,13 @@
             text-lg
             py-5
             lg:ml-10
+            mr-2
           "
         >
           MINT YOUR GOBLIN KIDS!
         </p>
       </div>
-      <div class="flex-1 flex justify-end self-center">
+      <div class="xl:flex-1 flex-0 flex justify-end self-center">
         <a target="_blank" href="">
           <button
             class="
@@ -63,8 +64,12 @@
 </template>
 
 <style>
+@font-face {
+  font-family: "BlueGobet";
+  src: url("./src/assets/font/BlueGobletRegular.otf");
+}
 #app {
-  font-family: "Montserrat", sans-serif;
+  font-family: "BlueGobet", sans-serif;
     background: url("./assets/img/homepage.png") no-repeat center center fixed;
     height: 100vh;
     -webkit-background-size: cover;
