@@ -8,6 +8,7 @@ const showMenu = ref(false);
   <div>
     <div
       class="
+        absolute
         w-full
         top-0
         lg:px-8 lg:pt-8 lg:pb-8
@@ -28,6 +29,7 @@ const showMenu = ref(false);
           border-opacity-0
           xl:flex-row
           flex-row-reverse
+          mr-10
         "
       >
         <div class="flex-grow">
@@ -52,7 +54,7 @@ const showMenu = ref(false);
           </div>
         </div>
         <div class="items-center hidden lg:flex">
-          <ul class="flex space-x-5">
+          <ul class="flex space-x-7">
             <li class="">
               <a
                 href=""

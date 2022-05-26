@@ -8,7 +8,7 @@ import Header from "../components/Header.vue"
 }
 @media only screen and (max-width: 768px) {
     main{
-        margin-top: 40px;
+        /* margin-top: 40px; */
     }
     .img-home{
         width: 400px;
@@ -22,7 +22,7 @@ import Header from "../components/Header.vue"
             <Header />
         </header>
         <main class="">
-            <div class="pt-2 m-auto xl:-mt-14 xl:w-custom">
+            <div class="m-auto">
                 <img src="../assets/img/homepage.png" class="w-full" />
             </div>
         </main>

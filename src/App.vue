@@ -37,8 +37,8 @@
           MINT YOUR GOBLIN KIDS!
         </p>
       </div>
-      <div class="flex-0 flex justify-end self-center">
-        <a target="_blank" href="http://mintzukiblowon.com">
+      <div class="flex-1 flex justify-end self-center">
+        <a target="_blank" href="">
           <button
             class="
               bg-prime
