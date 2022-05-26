@@ -66,7 +66,7 @@
 <style>
 @font-face {
   font-family: "BlueGobet";
-  src: url("./src/assets/font/BlueGobletRegular.otf");
+  src: url("/font/BlueGobletRegular.otf");
 }
 #app {
   font-family: "BlueGobet", sans-serif;
