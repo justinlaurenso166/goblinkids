@@ -65,7 +65,12 @@
 <style>
 #app {
   font-family: "Montserrat", sans-serif;
-  background-color: #1A1B1D;
+    background: url("./assets/img/homepage.png") no-repeat center center fixed;
+    height: 100vh;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;

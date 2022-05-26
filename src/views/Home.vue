@@ -6,10 +6,15 @@ import Header from "../components/Header.vue"
 .img-home{
     width: 1400px;
 }
+.a{
+    /* background: url("../assets/img/homepage.png") no-repeat center center fixed;
+    height: 100vh;
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
 @media only screen and (max-width: 768px) {
-    main{
-        /* margin-top: 40px; */
-    }
     .img-home{
         width: 400px;
     }
@@ -21,9 +26,9 @@ import Header from "../components/Header.vue"
         <header>
             <Header />
         </header>
-        <main class="">
-            <div class="m-auto">
-                <img src="../assets/img/homepage.png" class="w-full" />
+        <main class="a">
+            <div class="pt-2 m-auto xl:-mt-14">
+                <!-- <img src="../assets/img/homepage.png" class="w-full" /> -->
             </div>
         </main>
     </div>
