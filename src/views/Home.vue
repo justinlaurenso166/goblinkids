@@ -31,7 +31,7 @@ import Header from "../components/Header.vue"
         </main>
         <main class="bg-prime flex items-center justify-center h-screen text-prime text-left text-xl xl:text-4xl font-bold">
             <div class="bg-white p-8 xl:p-10 rounded-lg mx-3 -mt-14 xl:mt-0 bg-opacity-70">
-                <p>From the results of minting , 25% will we donate to children in need.</p>
+                <p>We will donate 20% from our mint to children in need.</p>
                 <p>•</p>
                 <p>And we will donate 25% of the royalty proceeds to children in need.</p>
                 <p>•</p>
